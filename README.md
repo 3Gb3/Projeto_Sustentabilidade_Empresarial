@@ -2,6 +2,8 @@
 
 Landing page para o projeto **Sustentabilidade Empresarial** da América Ambiental.
 
+🌐 **Acesse o site:** [https://3gb3.github.io/Projeto_Sustentabilidade_Empresarial/](https://3gb3.github.io/Projeto_Sustentabilidade_Empresarial/)
+
 ## 📋 Sobre
 
 Site desenvolvido para a cadeira de **Tecnologia Social** da faculdade, apresentando o projeto de sustentabilidade, reciclagem e ações sociais da América Serviços Automotivos LTDA.
